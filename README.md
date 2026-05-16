@@ -1,3 +1,1 @@
-First Project
-first change
-THIS IS A FILE CREATED WHILE IM STUDYING ABOUT THE TOPIC GIT
+An interactive and user-friendly educational platform designed to make learning engaging, accessible, and efficient. This application helps students improve their knowledge through structured lessons, quizzes, progress tracking, and interactive learning features.
